@@ -1,8 +1,15 @@
 <RCC>
     <qresource prefix="/">
-        <file>qtquickcontrols2.conf</file>
         <file>QML/main.qml</file>
-        <file>QML/Page1Form.ui.qml</file>
-        <file>QML/Page2Form.ui.qml</file>
+        <file>QML/TopScreen.qml</file>
+        <file>QML/HomeScreen.qml</file>
+        <file>QML/Constants.qml</file>
+        <file>QML/BaterryScreen.qml</file>
+        <file>QML/BigText.qml</file>
+        <file>Images/batteryCharging.svg</file>
+        <file>Images/temperature.svg</file>
+        <file>Images/warning.svg</file>
+        <file>Images/batteryAlert.svg</file>
+        <file>QML/OkDialog.qml</file>
     </qresource>
 </RCC>
