@@ -3,7 +3,7 @@ Application create for electric vehicles. It has to be independent dashboard wit
 
 ![N|Solid](https://github.com/mKomorek/DashboardApp/blob/master/Screens/screen1.png)
 
-####App created with (-)
+# App created with (-)
 - C++
 - Qt
 - QML
