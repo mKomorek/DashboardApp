@@ -3,9 +3,9 @@ Application create for electric vehicles. It has to be independent dashboard wit
 
 ![N|Solid](https://github.com/mKomorek/DashboardApp/blob/master/Screens/screen1.png)
 
-# App created with (-)
+# App created with
 - C++
 - Qt
 - QML
 
-Currently app works on arduino with a PC computer. Arduino is connected to the PC and sends data that is visualised in dashboard. The next step will be put this app into Raspberry Pi 4 with independed LCD or amoled screen instead of computer.
+Currently app works on arduino with a PC computer. Arduino is connected to the PC and sends data that is visualised in dashboard. The next step will be put this app into Raspberry Pi 4 with independed LCD or amoled screen instead of computer. Then I am going to develop app. I want to add more information about battery and maybe one more screen to use potential of swipe view app.
